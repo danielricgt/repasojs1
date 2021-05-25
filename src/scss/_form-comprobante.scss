@@ -1,0 +1,18 @@
+//.form-comprobante .form-horizontal input::placeholder ::-webkit-input-placeholder{color: green;}
+
+::-webkit-input-placeholder {
+    color: rgb(233, 122, 25);
+    font-size: 13px;
+  }
+  ::-moz-placeholder {
+    color: rgb(235, 131, 41);
+    font-size: 13px;
+  }
+  :-ms-input-placeholder {
+    color: rgb(241, 126, 24);
+    font-size: 13px;
+  }
+  ::placeholder {
+    color: peachpuff;
+    font-size: 13px;
+  }

@@ -1,0 +1,34 @@
+/* ==============
+  Login
+===================*/
+.logo-login {
+    background-image: url('./../assets/universidad-logo.png');
+    position:absolute;
+    top:0;
+    right:0;
+}
+/*body .BackgroundImage {
+    background-size: contain;
+}*/
+.bodyHero {
+    background-image:  url('./../assets/login/login-hero.jpg');
+    background-size: cover !important;
+    height: 1000px;
+    
+}
+
+/*.bg-primary{
+    background-color: red;
+}*/
+
+/*.image-right  {
+    float: right;
+    position: relative;
+    padding-right: 5%;
+}*/
+
+.btn-custom { 
+    background-color: transparent;
+    border-color: #5eadb2;
+    color: #5b626b;
+}
